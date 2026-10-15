@@ -1,0 +1,6 @@
+data/state.json
+data/market/
+.venv/
+node_modules/
+.env
+*.log

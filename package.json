@@ -1,0 +1,13 @@
+{
+  "name": "ceyantai-personal-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "策研台个人试用版",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node tests/run-tests.js"
+  },
+  "engines": {
+    "node": ">=16.20"
+  }
+}
